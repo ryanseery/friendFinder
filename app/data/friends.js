@@ -1,0 +1,164 @@
+var friends = [
+  {
+      "name":"Mario",
+      "photo": "http://placehold.it/350x150",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Luigi",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Peach",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Toad",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Yoshi",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Bowser",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Wario",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"WaLuigi",
+  "photo":"http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Koopa Troopa",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Boo",
+  "photo": "http://placehold.it/350x150",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+module.exports = friends;
